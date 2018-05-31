@@ -1,0 +1,31 @@
+[ {
+    "answers" : [ "No Guardrail" ],
+    "key" : "01_A"
+  }, {
+    "answers" : [ "Improper Guardrail", "Step Ladder Incorrect Usage" ],
+    "key" : "02_A"
+  }, {
+    "answers" : [ "Improper Guardrail", "Tripping Hazard" ],
+    "key" : "03_A"
+  }, {
+    "answers" : [ "Improper Guardrail" ],
+    "key" : "04_A"
+  }, {
+    "answers" : [ "Untied Worker", "No Guardrail", "No Toeboard" ],
+    "key" : "05_A"
+  }, {
+    "answers" : [ "Openings" ],
+    "key" : "06_A"
+  }, {
+    "answers" : [ "Untied Worker" ],
+    "key" : "07_A"
+  }, {
+    "answers" : [ "Untied Worker" ],
+    "key" : "08_A"
+  }, {
+    "answers" : [ "Ladder Access" ],
+    "key" : "09_A"
+  }, {
+    "answers" : [ "Ladder Run-to-Height Ratio" ],
+    "key" : "010_A"
+  } ]

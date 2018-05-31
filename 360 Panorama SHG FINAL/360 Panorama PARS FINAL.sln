@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360 Panorama PARS FINAL", "360 Panorama PARS FINAL.csproj", "{1134E204-22BB-133E-4212-503A0C9E25CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360 Panorama PARS FINAL.Editor", "360 Panorama PARS FINAL.Editor.csproj", "{D03692C0-EECD-F6FE-D113-274B94DF9660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1134E204-22BB-133E-4212-503A0C9E25CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1134E204-22BB-133E-4212-503A0C9E25CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1134E204-22BB-133E-4212-503A0C9E25CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1134E204-22BB-133E-4212-503A0C9E25CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03692C0-EECD-F6FE-D113-274B94DF9660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03692C0-EECD-F6FE-D113-274B94DF9660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03692C0-EECD-F6FE-D113-274B94DF9660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03692C0-EECD-F6FE-D113-274B94DF9660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

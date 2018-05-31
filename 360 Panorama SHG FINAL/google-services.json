@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1030394303700",
+    "firebase_url": "https://pars-hctc.firebaseio.com",
+    "project_id": "pars-hctc",
+    "storage_bucket": "pars-hctc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030394303700:android:dfd92b76c3980ed4",
+        "android_client_info": {
+          "package_name": "com.hctcPARS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030394303700-2jr1t0q1kaq8nv0d44gta2va8hpan92u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-LWtqGUQZunHmVoWbeae69HaSBNEo3fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
